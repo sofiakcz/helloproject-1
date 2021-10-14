@@ -1,5 +1,4 @@
 // mein hello-Programm
-// 10/21 bulme
 #include <iostream>
 using namespace std;
 
